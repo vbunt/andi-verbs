@@ -78,67 +78,67 @@
 
 40 ВСТАВАТЬ <кто:ном> АНД √=Vč:'i; AOR 2 jič:'i/HL, 2pl jač:'i||joč:'i; IMP 1 wuč:'ib/HL, 1pl wač:'ibul||woč:'ibul; INF 1 wuč:'idu/HL * √hirc'i; AOR hirc'i/H; IMP hirc'ib/H, pl hirc'ibul; INF hirc'idu/HHL
 
---------------------------
+41 ПОДНИМАТЬ <кто:эрг; что:ном> АНД √hirc'oɬi; INF hirc'ollu/LHL (=вставать+кауз.)
 
-41 ПОДНИМАТЬ <кто:эрг; что:ном> АНД √ h i r c ' o H ; INF hirc'ol lu/LHL (=вставать+кауз.)
+42 ОСТАНАВЛИВАТЬСЯ, СТОЯТЬ <кто:ном> АНД √=VRi; AOR 2 jiRi/HF, 2pl joRi; IMP 1 wuRib/HR, 1pl woRibul; INF 1 wuRidu/HHL
 
-42 ОСТАНАВЛИВАТЬСЯ/ СТОЯТЬ <кто:ном> АНД √=VRi; APR 2 jiRi/HF, 2pl joRi; IMP 1 wuRib/HR, 1pl woRibul; INF. 1 wuRidu/HHL
-
-43 САДИТЬСЯ <кто:ном> АНД INF 1 haGu w=uk'udu/H-HHL |на земле бить |
+43 САДИТЬСЯ <кто:ном> АНД INF 1 hoGu w=uk'udu/H-HHL |на земле бить|
 
 44 САДИТЬСЯ ВЕРХОМ <кто:ном> АНД -
 
-45 ЛОЖИТЬСЯ <кто:ном> АНД √ g i r d i ; AOR girdi/F; IMP girdib/F, pl girdibul; INF girdu/
+45 ЛОЖИТЬСЯ <кто:ном> АНД √girdi; AOR girdi/F; IMP girdib/F, pl girdibul; INF girdu/F
 
-46 КЛАСТЬ <кто:эрг; что:ном> АНД √ Vk^o^i; INF 5 bik^ol-lu/LHL (=бать/садиться+кауз.)
+46 КЛАСТЬ <кто:эрг; что:ном> АНД √Vkᵂ'oɬi; INF 5 bikᵂ'ollu/LHL (=быть/садиться+кауз.)
 
-47 ВСОВЫВАТЬ, ПРОДЕВАТЬ <кто:эрг; что:ном> АНД √ Х д И у APR iXol-i/HRF; IMP tiXol-o/HRH; INF tiXollu/HRF (=прааезать{/tiXi НкаузГ
+47 ВСОВЫВАТЬ, ПРОДЕВАТЬ <кто:эрг; что:ном> АНД √tiХoɬi; AOR tiXoɬi/HRF; IMP tiXoɬo/HRH; INF tiXollu/HRF (=пролезать{√tiX:i} +кауз.)
 
-48 ВИСЕТЬ <что:ном> АНД √/gelgedir + RiftAOR 5 %/L biRi/L; IMP 5 л, biRib/L; INF 5 л, biRidu/L
+48 ВИСЕТЬ <что:ном> АНД √gelgedir + =iRi; AOR 5 ~/L biRi/L; IMP 5 ~ biRib/L; INF 5 ~ biRidu/L
 
-49 ВЕШАТЬ <кто:эрг; что:ном> АНД √gelgedir + =iRo}i; INF 3 gelgedir/L MRoVi/LHL Двисеть+кауз.)
+49 ВЕШАТЬ <кто:эрг; что:ном> АНД √gelgedir + =iRoɬi; INF 3 gelgedir/L biRoɬi/LHL (=висеть+кауз.)
 
-50 ГНИТЬ <что:ном> АНД ^turdi; AOR turdi/HL; IMP turdib/HL; INF turdu/HL * тухнуть (V^anaXiuj AOR ^anaXu/HHL; IMP ^anaXub/HHL; INF ^anaXudu/HHL
+50 ГНИТЬ <что:ном> АНД √turdi; AOR turdi/HL; IMP turdib/HL; INF turdu/HL * тухнуть √šanaXu; AOR šanaXu/HHL; IMP šanaXub/HHL; INF šanaXudu/HHL
 
-51 ВЯНУТЬ (a. ~ портиться) <что:ном> АНД a, √=e^'andi; AOR 4 r e £ ' a n n i ^ L j J M P 4 relf'annib/HHL; INF 4 r e ^ ' a n n u / H H L * b. =умирать {√=vE'o>
+51 ВЯНУТЬ (a. ~ ; b. портиться) <что:ном> АНД a. √=eč'andi; AOR 4 reč'anni/HHL; IMP 4 reč'annib/HHL; INF 4 reč'annu/HHL * b. =умирать {√=Vč'o>}
 
-52 БРОДИТЬ (о тесте) <что:ном> АНД /purXundi; AOR purXunni/HHL; IMP purXunnib/HHL; INF purXunnu/HHL
+52 БРОДИТЬ (о тесте) <что:ном> АНД √purXundi; AOR purXunni/HHL; IMP purXunnib/HHL; INF purXunnu/HHL
 
 53 СВЕРТЫВАТЬСЯ <что:ном> АНД ~ прокисать √=etito; AOR 4 retito/HL; IMP 4 retitob/HL; INF 4 retitidu/HL
 
-54 ТАЯТЬ <что:ном> АНД √=V?un; AOR 4 ri?un/H, 4pl ro?un; IMP 4 ri?utn/H; INF 4 ri?unnu/HHL
+54 ТАЯТЬ <что:ном> АНД √=V?un; AOR 4 ri?un/H, 4pl ro?un; IMP 4 ri?um/H; INF 4 ri?unnu/HHL
 
-55 РАСТАПЛИВАТЬ <кто:эрг; что:ном> АНД √=У?опН; INF 4 ri?onnu/HHL (=таять+кауз.)
+55 РАСТАПЛИВАТЬ <кто:эрг; что:ном> АНД √=V?onɬi; INF 4 ri?onnu/HHL (=таять+кауз.)
 
 56 ГОРЕТЬ <что:ном> АНД √c'ato; AOR c'ato/HL; IMP c'atob/HL; INF c'atidu/HL {=жечь)
 
-57 ЖЕЧЬ <кто:эрг; что:ном> АНД =гореть { √ c ' a t o h IMP c'ato/HL
+57 ЖЕЧЬ <кто:эрг; что:ном> АНД =гореть {√c'ato}; IMP c'ato/HL
 
-58 ЗАГОРАТЬСЯ <что:ном> АНД √Vk^o; AOR 4 rik e o/HL, 4pl rok 0 o; IMP 4 rik 0 ob/HL; INF 4 rikudu/HL
+58 ЗАГОРАТЬСЯ <что:ном> АНД √=Vkᵂo; AOR 4 rikᵂo/HL, 4pl rokᵂo; IMP 4 rikᵂob/HL; INF 4 rikudu/HL
 
-59 ЗАЖИГАТЬ <кто:эрг; что:ном> АНД √=Vko0l-i; INF 5 bik o ollu/LHL (=загораться+кауз.)
+59 ЗАЖИГАТЬ <кто:эрг; что:ном> АНД √=Vkᵂoɬi; INF 5 bikᵂollu/LHL (=загораться+кауз.)
 
-60 ГАСНУТЬ, ПОТУХНУТЬ <что:ном> АНД (jtyjfl/g'an- t ' u ; AOR ^'ant'u/HL; IMP E'ant'ub/HL; INF IJ'ant'udu/NL
+60 ГАСНУТЬ, ПОТУХНУТЬ <что:ном> АНД √č'ant'u; AOR č'ant'u/HL; IMP č'ant'ub/HL; INF č'ant'udu/HL
 
-61 ГАСИТЬ, ТУШИТЬ <кто:эрг; что:ном> АНД / K ' a n t ' o H ; INF ^ ' a n t ' o l 1 u/HHL (=гаснуть+кауз.)
+61 ГАСИТЬ, ТУШИТЬ <кто:эрг; что:ном> АНД √č'ant'oɬi; INF č'ant'ollu/HHL (=гаснуть+кауз.)
 
-62 ОСТЫВАТЬ <что:ном> АНД AOR halto/HL; IMP haltob/HL; INF haltidu/HL
+62 ОСТЫВАТЬ <что:ном> АНД √halto; AOR halto/HL; IMP haltob/HL; INF haltidu/HL
 
-63 БОЛЕТЬ <что:ном> АНД fruq'u?)AOR rug'u/H; I ^ T u g ' u b / H ; INF rug'udu/H 
+63 БОЛЕТЬ <что:ном> АНД √ruq'u; AOR ruq'u/H; IMP ruq'ub/H; INF ruq'udu/H 
 
-64 ОПУХАТЬ <что:ном> АНД /а=аХо; AOR 5sg/pl abaXo/H, 4 araXo; IMP 1 awaXob/H; INF 1 awaXidu/HHHL
+64 ОПУХАТЬ <что:ном> АНД √а=аХо; AOR 5sg/pl abaXo/H, 4 araXo; IMP 1 awaXob/H; INF 1 awaXidu/HHHL
 
-65 ЧЕСАТЬСЯ <что:ном> АНД INF 4 k0onnik„on/HLH r^ik'udu*
+65 ЧЕСАТЬСЯ <что:ном> АНД INF 4 kᵂonnikᵂon/HLH r=ik'udu
 
-66 ЧЕСАТЬ <кто:эрг; что:ном> АНД fl(/geldTj) AOR g e l l i / H L ; IMP qello/HL; INF qellu/HL
+66 ЧЕСАТЬ <кто:эрг; что:ном> АНД √qeldi; AOR qelli/HL; IMP qello/HL; INF qellu/HL
 
-67 СЫПАТЬСЯ (а ~ рассыпаться; b. высыпаться) АНД a. /Kabdi; APR Habdi/F; IMP ^abd1b/F, pl Xabdibul; INF ^abdu/F (=разливаться)
+67 СЫПАТЬСЯ (а. рассыпаться; b. высыпаться) АНД a. √čabdi; APR čabdi/F; IMP čabdib/F, pl čabdibul; INF čabdu/F (=разливаться)
 
-68 СЫПАТЬ (а. рассыпать; b. высыпать) <кто:эрг; что:ном> АНД a . / K a b d o l i ;INF I k b d o l l u / F H L (=рассыпаться+кауз=разливать)
+68 СЫПАТЬ (а. рассыпать; b. высыпать) <кто:эрг; что:ном> АНД a √čabdoɬi; INF čabdollu/FHL (=рассыпаться+кауз.; =разливать)
 
-69 КАПАТЬ <что:ном> АНД /t'onk'undi; AOR t'onk'unni/HHF; INF t'onk'unnib/HHF; INF t'onk'unnu/HHF (см. капля)
+69 КАПАТЬ <что:ном> АНД √t'onk'undi; AOR t'onk'unni/HHF; INF t'onk'unnib/HHF; INF t'onk'unnu/HHF (см. капля)
 
-70 НАПОЛНЯТЬСЯ <что:ном> АНД /-Vc'1; AOR 5 b i c ' i / L , 5pl boc'i; IMP 5 b i c ' i b / L ; INF 5 bic'idu/L
+70 НАПОЛНЯТЬСЯ <что:ном> АНД √=Vc'i; AOR 5 bic'i/L, 5pl boc'i; IMP 5 bic'ib/L; INF 5 bic'idu/L
+
+--------------------------
 
 71 НАПОЛНЯТЬ <кто:эрг; что:ном> АНД √=Ус'оИ; INF 5 b i c ' o l -lu/HHL ["наполняться+кауз.)
 

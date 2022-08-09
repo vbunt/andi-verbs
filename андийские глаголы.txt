@@ -138,71 +138,71 @@
 
 70 НАПОЛНЯТЬСЯ <что:ном> АНД √=Vc'i; AOR 5 bic'i/L, 5pl boc'i; IMP 5 bic'ib/L; INF 5 bic'idu/L
 
+71 НАПОЛНЯТЬ <кто:эрг; что:ном> АНД √=Vс'оɬi; INF 5 bic'ollu/HHL (=наполняться+кауз.)
+
+72 УДАРЯТЬ <кто:эрг; кого:дат> АНД <эрг;лок> √ǯ:abi; AOR ǯ:abi/H; IMP ǯ:abo/H; INF ǯ:abu/H (=убивать) * <эрг;лок> √kᵂ:'abdi; AOR kᵂ:'abdi/RL; IMP kᵂ:'abdo/RL; INF kᵂ:'abdu/RL
+
+73 БИТЬ <кто:эрг; кого:ном> АНД √č'indi; AOR č'inni/HL; IMP č'inno/HL; INF č'innu/HL (=толочь)
+
+74 ЛОМАТЬСЯ <что:ном> АНД √=Vqin; AOR 5 biqin/HL, 5pl boqin; IMP 5 biqim/HL, 5pl boqimul; INF 5 biqinnu/HL * раскалываться. √Gardi; AOR Gardi; IMP Gardib; INF Gardu
+
+75 ЛОМАТЬ <что:эрг; что:ном> АНД √=Vqonɬi; INF 5 biqonnu/HHL (=ломаться+кауз.)
+
+76 РЕЗАТЬ <кто:эрг; что:ном> АНД √=Vq'i; AOR 1 wuq'i/HF, 1pl waq'i, 2 juq'i, 2pl jaq'i; IMP 1 wuqᵂ'o/HF, 1pl waqᵂ'o; INF 1 wuq'idu/HHF, 1pl waq'idu (=гнать, кроить) * рубить; раскалывать √Gardoɬi; AOR Gardoɬi/HL; IMP Gardoɬo; INF Gardollu/HL (=раскалываться {√Gardi}+кауз.)
+
+77 КРОШИТЬ, РЕЗАТЬ НА КУСКИ <кто:эрг; что:ном> АНД √=aq'aq'i; AOR 5 baq'aq'i/HHL, 4 raq'aq'i; IMP 4 raq'aq'o/HHL; INF raq'aq'idu/HHL
+
+78 ПИЛИТЬ <кто:эрг; что:ном> АНД √quqandi; AOR quqanni/HHL; IMP quqanno/HHL; INF quqannu/HHL
+
+79 ЛОПНУТЬ <что:ном> АНД √L'at'undi||L'ahundi; AOR L'at'unni||L'ahunni/HL; IMP L'at'unnib||L'ahunnib/HL; INF L'at'unnu||L'ahunnu/HL
+
+80 РВАТЬСЯ <что:ном> АНД ~ частично √qabdi; AOR qabdi/RL; IMP qabdib/RL; INF qabdu/RL * ~ на части √tandi; AOR tanni/RF; IMP tannib/RF; INF tannu/RF
+
+81 РВАТЬ <кто:эрг; что:ном> АНД √qabdoli; INF qabdollu/RL (=рваться+кауз.)
+
+82 ОТРЫВАТЬ, ОТЛАМЫВАТЬ <кто:эрг; что:ном> АНД √tannoɬi; INF tannollu/RHL (=рваться+кауз.)
+
+83 ТЕСАТЬ (а. ~ ; b. строгать) <кто:эрг; что:ном> АНД √c'akunnoɬi; AOR c'akunnoɬi/HL; IMP c'akunnoɬo/HL; INF с'akunnollu/HL (=блестеть {√c'akundi, AOR c'akurinni} +кауз.)
+
+84 ТОЧИТЬ <кто:эрг; что:ном> АНД INF bari/HL idu |острым делатъ|
+
+85 ТЕРЕТЬ <кто:эрг; что:ном> АНД √č:'andi; AOR č:'anni/HL; IMP č:'anno/HL; INF č:'annu/HL
+
+86 ЦАРАПАТЬ <кто:эрг; что:ном> АНД <эрг; лок> √qeldi; AOR qelli/HL; IMP qello/HL; INF qellu/HL
+
+87 ДАВИТЬ, ЖАТЬ, СЖИМАТЬ <кто:эрг; что:ном> АНД √č:'urdoɬi; INF č:'urdollu/RL (=гнуться+кауз.) * √q'innoɬi; INF q'innollu/RL (=застрять {√q'indi} +кауз.) * выжимать √c:'urdi; AOR c:'urdi/HF; IMP c:'urdo/H; INF c:'urdu/HF
+
+88 ГНУТЬСЯ <что:ном> АНД √geldi; AOR gelli/HL; IMP gellib/HL; INF gellu/HL * √č'ilok'urɬi (č'ilok'ur "согнутый"); AOR č'ilok'urɬi/HHHL; IMP č'ilok'urɬib/HHHL; INF č'ilok'urɬidu/HHHL * √č:'urdi; AOR č:'urdi/RL; IMP č:'urdib/RL; INF č:'urdu/RL * √q'ulundi; AOR q'ulunni/HHL; IMP q'ulunnib/HHL; INF q'ulunnu/HHL (=наклоняться)
+
+89 ГНУТЬ <кто:эрг; что:ном> АНД INF č'ilok'ur/H idu * √č:'urdoɬi; INF č:'urdollu/RL (=гнуться+кауз.) * √q'ulunnoɬi; INF q'ulunnollu/HHHL (=гнутъся+кауз.)
+
+90 ТРОГАТЬ/ КАСАТЬСЯ <кто:эрг; чем:ном; что/чего:лок> АНД <эрг; инст; ном> √Gᵂobdi; AOR Gᵂobdi/HL; IMP Gᵂobdo/HL; INF Gᵂobdu/HL
+
+91 ТОЛКАТЬ <кто:эрг; что:ном> АНД √Gumdi; AOR Gummi/HL; IMP Gummo/HL; INF Gummu/HL * √=isoɬi; AOR 3 bisoɬi/LHL; IMP 3 bisoɬo/LHL; INF 3 bisollu/LHL (=прижиматься {√=isi} +кауз.)
+
+92 ТЯНУТЬ <кто:эрг; что:ном> АНД √L'andi; AOR L'anni/HL; IMP L'anno/HL; INF L'annu/HL
+
+93 ТАЩИТЬ/ ВОЛОЧИТЬ <кто:эрг; что:ном> АНД √qurdi; AOR qurdi/HL; IMP qurdo/HL; INF qurdu/HL * вытаскивать √=Vš:i; AOR 4 ruš:i/L, 4pl raš:i; IMP 4 ruš:o/L, 4pl raš:o; INF 4 ruš:du/L
+
+94 НЕСТИ (a. ~ ; b. уносить; c. приносить; d. брать с собой; e. ~ на спине) <кто:эрг; что:ном> АНД а, Ь. √=VXi; AOR 4 riXi/L, 5 biXi, 5pl boXi; IMP 4 riXo; INF 4 riXidu (=брать, покупать) * с. √=Vgo; AOR 5 biqo/HL, 5pl boqo; IMP 5 biqo; INF5 biqidu * d. √=ač:undi; AOR 4sg/pl rač:unni/L; IMP 4 rač:unno; INF 4 rač:unnu
+
+95 БРОСАТЬ, КИДАТЬ <кто:эрг; что:ном; во что:лок> АНД √šamdi; AOR šammi/HL; IMP šammo/HL; INF šammu/HL
+
+96 СТРЕЛЯТЬ <кто:эрг; в кого:лок; из чего:ном> АНД <эрг; ном; лок> √bilan; AOR bilan/L; IMP bilon/L; INF bilinnu/L
+
+97 КАЧАТЬСЯ, ШЕВЕЛИТЬСЯ <что:ном> АНД √GiGabšo; A0R GiGabšo/HHL; IMP GiGabšob/HHL; INF GiGabšdu/HHL (=качать)
+
+98 КАЧАТЬ <кто:эрг; что:ном> АНД =качаться {√GiGabšo}; IMP GiGabšo/HHL
+
+99 МАХАТЬ <кто:эрг; чем:ном> АНД √xᵂ:ahešo; AOR xᵂ:ahešo/LHL; IMP xᵂ:ahešo/LHL; INF xᵂ:ahešdu/LHL
+
+100 ОТКРЫВАТЬСЯ <что:ном> АНД √arXon; AOR arXon/HL; IMP arXom/HL; INF arXinnu/HL (=открывать)
+
+101 ОТКРЫВАТЬ <кто:эрг; что:ном> АНД =открываться {√arXon}; IMP arXon/HL {=отпирать)
+
+102 ОТПИРАТЬ <кто:эрг; что:ном> АНД =открывать {√arXon} 
+
 --------------------------
-
-71 НАПОЛНЯТЬ <кто:эрг; что:ном> АНД √=Ус'оИ; INF 5 b i c ' o l -lu/HHL ["наполняться+кауз.)
-
-72 УДАРЯТЬ <кто:эрг; кого:дат> АНД <эрг;лок> v^abi; AOR ^abi/H; IMP 3abo/H; INF *abu/H (=убивать) <эрг;лок> / R ^ a b d i 7 ; AOR R ; a b d i / R L ; IMP R^abdo/RL; INF R;abdu/RL
-
-73 БИТЬ <кто:эрг; кого:ном> АНД /%'indi; AOR ^1inni/HL;IMP £'inno/HL; INF ^'innu/HL {-толочь)
-
-74 ЛОМАТЬСЯ <что:ном> АНД ' ^ V g i n ; AOR 5 biqin/HL, 5pl boqin; IMP 5 biqim/HL, 5pl boqimul; iNF 5 biqinnu/HL * раскалываться. ^Gardi; AOR Gardi; IMP Gardib; INF Gardu
-
-75 ЛОМАТЬ <что:эрг; что:ном> АНД ^-УдопИ ; INF 5 biqonnu/HHL (=ламаться+ кауз.)
-
-76 РЕЗАТЬ <кто:эрг; что:ном> АНД √=Vq'i; AOR 1 wuq'i/HF, 1pl waq'i, 2 j u q ' i , 2pl j a q ' i ; IMP 1 wuq^o/HF, 1pl waq^o; INF 1 wuq'idu/HHF, 1pl waq'idu (=гнать, кроить) * рубить; раскапывать •Gardo!i; AOR Gardol-i/HL; IMP GardoWHL; INF Gardollu/HL (=раскалываться {/Gardil+шуз.)
-
-77 КРОШИТЬ, РЕЗАТЬ НА КУСКИ <кто:эрг; что:ном> АНД √=aq'ад'i; AOR 5 baq'aq'i/HHL, 4 raq'aq'i; IMP 4 raq'aq'o/HHL; INF raq'aq'idu/HHL
-
-78 ПИЛИТЬ <кто:эрг; что:ном> АНД ^quqandi; AOR quqanni/HHL; IMP quqanno/HHL; INF quqannu/HHL
-
-79 ЛОПНУТЬ <что:ном> АНД /L'at'undi||L'ahundi; AOR L'at'unni||L'ahunni/HL; IMP L'at'unnibUL'ahunnib/HL; INF L'at'unnu||L'ahunnu/HL
-
-80 РВАТЬСЯ <что:ном> АНД ' • ч а с т и ч н о /qabdi; AOR qabdi/RL; IMP qabdib/RL; INF qabdu/RL *-»на части / t a n d i pAOR tanni/RF; IMP tannib/RF; INF tannu/RF
-
-81 РВАТЬ <кто:эрг; что:ном> АНД /qabdoli; INF qabdol1u/RL (=рваться+кауз.)
-
-82 ОТРЫВАТЬ, ОТЛАМЫВАТЬ <кто:эрг; что:ном> АНД /tanпоИ; INF tannollu/RHL (=рваться+кауз.)
-
-83 ТЕСАТЬ ( а . * J ь. строгать) <кто:эрг; что:ном> АНД /c'akunnoli; AOR c'akunnoTT/HL; IMP c'akunnoto/HL; INF с'akunnollu/HL (*блестеть {/c'akundi, AOR c"akurini} +кауз.)
-
-84 ТОЧИТЬ <кто:эрг; что:ном> АНД I N F bari/HL idu |острым делатъ\
-
-85 ТЕРЕТЬ <кто:эрг; что:ном> АНД f l ^ ' a n d i ; AOR K'anni/HL; IMP C'anno/HL; INF Knnu/HL
-
-86 ЦАРАПАТЬ <кто:эрг; что:ном> АНД <ЭРГ; лок> / q e l d i ; AOR qelli/HL; IMP qello/HL; INF qellu/HL
-
-87 Д А В И Т Ь , ЖАТЬ, СЖИМАТЬ <кто:эрг; что:ном> АНД ^ ' u r d o ^ i ; INF tf'urdollu/RL Дгнуться+кауз.) * y o ' i n n o ^ i j ) INF g'innollu/RL Дзасгпрять { / g 1 i n d i ) +кауз.) * выжимать ^c'urdi; AOR c^urcftyHF; IMP c'urdo/H; INF c'urdu/HF
-
-88 ГНУТЬСЯ <что:ном> АНД / g e l d i ; AOR g e l l i / H L ; IMP gellib/HL; INF gellu/HL * / g ' i l o k ' u r l i i f u l ok' u г)" согнутый"); AOR ^'ilok'uH-i/HHHL; IMP If'ilok'urlib/HHHL; INF I f ' i l o - k'urlidu/HHHL * / c ' u r d i ; AOR K r d i / R L ; IMP ^'urdib/RL; INF ^'urdu/RL * /g'ulundi_; AOR q'ulunni/HHL; IMP q'ulunnib/HHL; INF g'ulunnu/HHL Днаклоняться)
-
-89 ГНУТЬ <кто:эрг; что:ном> АНД INF g'ilok'ur/H idu * / c ' u r d o l i ; INF £'urdollu/RL (=гнуться+кауз.) * /q 'ulunnoli; INF q'ulurinol lu/HHHL (=гнутъся+кауз.)
-
-90 ТРОГАТЬ/ КАСАТЬСЯ <кто:эрг; чем:ном; что/чего:лок> АНД о р г ; инст^ ном> /GpObdi; AOR G0obdi/HL; IMP G0obdo/HL; INF G0obdu/HL
-
-91 ТОЛКАТЬ <кто:эрг; что:ном> АНД /Gumdi; AOR Gummi/HL; IMP Gummo/HL; INF Gummu/HL * √=isoti_; AOR 3 biso4i/LHL; IMP 3 biso1-o/LHL; INF 3 bisollu/LHL (=прижиматься {√=isi} +кауз.)
-
-92 ТЯНУТЬ <кто:эрг; что:ном> АНД ^L'andi; AOR L'anni/HL; IMP L'anno/HL; INF L'annu/HL
-
-93 ТАЩИТЬ/ ВОЛОЧИТЬ <кто:эрг; что:ном> АНД /gurdi; AOR qurdi/HL; IMP qurdo/HL; INF qurdu/HL * в ы т а с к и в а т ь A O R 4 ruSi/L, 4pl r a s i ; IMP 4 ruKo/L, 4pl ra^o; INF 4 ru^du/L
-
-94 НЕСТИ ( a - * ; ь. уносить, c. приносить; d. брать С собой; e - * на спине) <кто:эрг; что:ном> АНД а . Ь . √=VXi; AOR 4 r i X i / L , 5 b i X i , 5pl boXi ;IMP 4 riXo^NF4 riXidu (=брать, покупать) * с. √=Vgo; AOR 5 biqo//HL, 5pl boqo; IMP 5 biqo;INF5 biqidu * d. P=a^undT-)AOR 4sg/pl ra)funni/L; IMP 4 ^ ra)funno; INF 4 raifunnu
-
-95 БРОСАТЬ/ КИДАТЬ <кто:эрг; что:ном; во что:лок> АНД flgamdiy AOR Kammi/HL; IMP ^ammo/HL; INF ^ammu/HL
-
-96 СТРЕЛЯТЬ <кто:эрг; в кого:лок; из чего:ном> АНД <ЭРГ^ ном; лок> vbilan; AOR bilan/L; IMP bilon/L; INF bilinnu/L
-
-97 КАЧАТЬСЯ, ШЕВЕЛИТЬСЯ <что:ном> АНД ^6i6ab?o^ A0R GiGabKo/HHL; IMP GiGab^ob/HHL; INF GiGab^du/HHL (=качать)
-
-98 КАЧАТЬ <кто:эрг; что:ном> АНД ^качаться {/GiGab^o}; IMP GiGab^o/HHL
-
-99 МАХАТЬ <кто:эрг; чем:ном> АНД f l / x „ a h e ^ o ; AOR x0aheWLHL; IMP x„aheWLHL; INF xcahe^du/LHL
-
-100 ОТКРЫВАТЬСЯ <что:ном> АНД /arXon; AOR arXon/HL; IMP arXom/HL; INF arXinnu/HL открывать)
-
-101 ОТКРЫВАТЬ <кто:эрг; что:ном> АНД -открываться {/arXon}; IMP arXon/HL {-отпирать)
-
-102 ОТПИРАТЬ <кто:эрг; что:ном> АНД -открывЖTTSrXon} 
 
 103 ЗАКРЫВАТЬСЯ <что:ном> АНД ^ j o q ' a n ; AOR j o q ' a n / H ; IMP joq'om/H; INF joq'innu/HHL (-закрывать)
 

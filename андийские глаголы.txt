@@ -66,7 +66,7 @@
 
 34 ПРЫГАТЬ <кто:ном> АНД √ɬibdi; AOR ɬibdi/F; IMP ɬibdib/F, pl ɬibdibul; INF ɬibdu/F
 
-35 ЛЕТЕТЬ <кто:ном> АНД fl √burdi; AOR burdi/F; IMP burdib/F, pl burdibul; INF burdu/F
+35 ЛЕТЕТЬ <кто:ном> АНД √burdi; AOR burdi/F; IMP burdib/F, pl burdibul; INF burdu/F
 
 36 КРУЖИТЬСЯ <кто:ном> АНД √s:ordi; AOR s:ordi/HF; IMP s:ordib/HF, pl s:ordibul; INF s:ordu/HF
 

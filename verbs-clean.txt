@@ -180,7 +180,7 @@
 
 # 93 ТАЩИТЬ, ВОЛОЧИТЬ <кто:эрг; что:ном> АНД √=Vš:i; AOR 4 ruš:i/L, 4pl raš:i; IMP 4 ruš:o/L, 4pl raš:o; INF 4 ruš:du/L
 
-# 94 НЕСТИ (приносить) <кто:эрг; что:ном> АНД √=Vgo; AOR 5 biqo/HL, 5pl boqo; IMP 5 biqo; INF5 biqidu 
+# 94 НЕСТИ (приносить) <кто:эрг; что:ном> АНД √=Vgo; AOR 5 biqo/HL, 5pl boqo; IMP 5 biqo; INF 5 biqidu 
 
 # 94 НЕСТИ (брать с собой) <кто:эрг; что:ном> АНД √=ač:undi; AOR 4sg/pl rač:unni/L; IMP 4 rač:unno; INF 4 rač:unnu
 

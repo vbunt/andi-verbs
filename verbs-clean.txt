@@ -1,6 +1,6 @@
 # 1 БЫТЬ, ИМЕТЬСЯ <кто:ном> АНД √i; PRS i
 
-# 3 ОКАЗЫВАТЬСЯ, ПОПАДАТЬ <кто:ном; где:лок> АНД √=Vkᵂ'o; AOR 1 wukᵂ'o/H, 1 pl wok'o, 2 jikᵂ'o, 2pl jokᵂ'o; IMP 1 wukᵂ'ob/H; 1pl wokᵂ'obul; INF 1 wuk'udu/HHL
+# 3 ОКАЗЫВАТЬСЯ, ПОПАДАТЬ <кто:ном; где:лок> АНД √=Vkᵂ'o; AOR 1 wukᵂ'o/H, 1 pl wok'o, 2 jikᵂ'o, 2pl jokᵂ'o; IMP 1 wukᵂ'ob/H, 1pl wokᵂ'obul; INF 1 wuk'udu/HHL
 
 # 4 ОСТАВАТЬСЯ <кто:ном> АНД √=ek:u; AOR 1 wok:u, 2 jek:u; IMP wok:ub; INF 1 wok:udu 
 
@@ -36,7 +36,7 @@
 
 ---------------------
 
-# 20 ПРОИГРЫВАТЬ <кто:ном; кому:лок> АНД √=VRan; AOR 2 jiRan/H, 2pl jaRan; IMP 1 wuRam/H; 1pl waRamul; INF 1 wuRinnu/HHL
+# 20 ПРОИГРЫВАТЬ <кто:ном; кому:лок> АНД √=VRan; AOR 2 jiRan/H, 2pl jaRan; IMP 1 wuRam/H, 1pl waRamul; INF 1 wuRinnu/HHL
 
 # 21 ВЫИГРЫВАТЬ <кто:эрг; у кого:ном> АНД <ном; лок> √=Vša; AOR 1 wuša/L, 2 jiša, 2pl jaša; IMP 2 jišab/L, 2pl jašabul; INF 1 wušidu/L
 
@@ -46,7 +46,7 @@
 
 # 24 ПРИХОДИТЬ <кто:ном> АНД √=VGᵂo; AOR 2 jiGᵂo/LH, 3 biGᵂo, 2pl joGo; IMP 1 wuGᵂob/LH, 1pl wuGᵂobul; INF 1 wuGidu/LHL
 
-# 25 ДОЙТИ/ ДОСТИЧЬ <кто:ном> АНД √eqo; AOR 1sg/pl woqo/H, 2sg/pl jeqo; IMP 1 woqob/H, 1pl woqobul; INF 2 jeqidu/HHL
+# 25 ДОЙТИ, ДОСТИЧЬ <кто:ном> АНД √eqo; AOR 1sg/pl woqo/H, 2sg/pl jeqo; IMP 1 woqob/H, 1pl woqobul; INF 2 jeqidu/HHL
 
 # 26 ВХОДИТЬ <кто:ном> АНД √kabdi; AOR kabdi; IMP kabdib; INF kabdu
 
@@ -56,7 +56,7 @@
 
 ---------------------
 
-# 30 ПУСКАТЬ/ ОТПУСКАТЬ <кто:эрг; кого:ном> АНД √elta; AOR elta; IMP elto; INF eld:u
+# 30 ПУСКАТЬ, ОТПУСКАТЬ <кто:эрг; кого:ном> АНД √elta; AOR elta; IMP elto; INF eld:u
 
 # 31 ГНАТЬ <кто:эрг; кого:ном> АНД √=Vq'i; AOR 1 wuq'i/HF, 1pl waq'i, 2 juq'i, 2pl jaq'i; IMP 1 wuqᵂ'o/HF, 1pl waqᵂ'o; INF 1 wuq'idu/HHF, 1pl waq'idu
 
@@ -84,8 +84,6 @@
 
 # 42 ОСТАНАВЛИВАТЬСЯ, СТОЯТЬ <кто:ном> АНД √=VRi; AOR 2 jiRi/HF, 2pl joRi; IMP 1 wuRib/HR, 1pl woRibul; INF 1 wuRidu/HHL
 
-# 44 САДИТЬСЯ ВЕРХОМ <кто:ном> АНД -
-
 # 45 ЛОЖИТЬСЯ <кто:ном> АНД √girdi; AOR girdi/F; IMP girdib/F, pl girdibul; INF girdu/F
 
 ---------------------
@@ -100,7 +98,7 @@
 
 # 52 БРОДИТЬ (о тесте) <что:ном> АНД √purXundi; AOR purXunni/HHL; IMP purXunnib/HHL; INF purXunnu/HHL
 
-# 53 СВЕРТЫВАТЬСЯ <что:ном> АНД ~ прокисать √=etito; AOR 4 retito/HL; IMP 4 retitob/HL; INF 4 retitidu/HL
+# 53 СВЕРТЫВАТЬСЯ (~ прокисать) <что:ном> АНД √=etito; AOR 4 retito/HL; IMP 4 retitob/HL; INF 4 retitidu/HL
 
 # 54 ТАЯТЬ <что:ном> АНД √=V?un; AOR 4 ri?un/H, 4pl ro?un; IMP 4 ri?um/H; INF 4 ri?unnu/HHL
 
@@ -124,7 +122,7 @@
 
 # 67 СЫПАТЬСЯ (рассыпаться) АНД √čabdi; AOR čabdi/F; IMP čabdib/F, pl čabdibul; INF čabdu/F
 
-# 69 КАПАТЬ <что:ном> АНД √t'onk'undi; AOR t'onk'unni/HHF; INF t'onk'unnib/HHF; INF t'onk'unnu/HHF
+# 69 КАПАТЬ <что:ном> АНД √t'onk'undi; AOR t'onk'unni/HHF; IMP t'onk'unnib/HHF; INF t'onk'unnu/HHF
 
 ---------------------
 
@@ -160,7 +158,7 @@
 
 # 86 ЦАРАПАТЬ <кто:эрг; что:ном> АНД <эрг; лок> √qeldi; AOR qelli/HL; IMP qello/HL; INF qellu/HL
 
-# 87 ДАВИТЬ, ЖАТЬ, СЖИМАТЬ <кто:эрг; что:ном> АНД выжимать √c:'urdi; AOR c:'urdi/HF; IMP c:'urdo/H; INF c:'urdu/HF
+# 87 ДАВИТЬ, ЖАТЬ, СЖИМАТЬ (выжимать) <кто:эрг; что:ном> АНД √c:'urdi; AOR c:'urdi/HF; IMP c:'urdo/H; INF c:'urdu/HF
 
 # 88 ГНУТЬСЯ <что:ном> АНД √č:'urdi; AOR č:'urdi/RL; IMP č:'urdib/RL; INF č:'urdu/RL 
 
@@ -212,7 +210,7 @@
 
 # 105 ЗАПИРАТЬ <кто:эрг; чем:ном> АНД √daš:i; AOR daš:i/HL; IMP daš:o/HL; INF daš:du/HL
 
-# 106 МАЗАТЬ <кто:эрг; чем:ном; на что:лок> АНД √=ušo; 5 bušo/L; IMP 5 bušo/L; INF 5 bušidu/L
+# 106 МАЗАТЬ <кто:эрг; чем:ном; на что:лок> АНД √=ušo; AOR 5 bušo/L; IMP 5 bušo/L; INF 5 bušidu/L
 
 # 107 ПРИВЯЗЫВАТЬ <кто:эрг; что:ном; к чему:лок> АНД √=ošan; AOR 2sg/pl jošan/L; IMP 5 bošon/L; INF 5 bošinnu/L
 
@@ -244,7 +242,7 @@
 
 # 120 КОСИТЬ <кто:эрг; что:ном> АНД √X:andi; AOR X:anni/HF; IMP X:anno/HF; INF X:annu/HF
 
-# 121 ЖАТЬ <кто:эрг; что:ном> АНД √=okᵂo; AOR=IMP 4  rokᵂo/H; INF 4 rokudu/HHL
+# 121 ЖАТЬ <кто:эрг; что:ном> АНД √=okᵂo; AOR 4 rokᵂo/H; IMP 4 rokᵂo/H; INF 4 rokudu/HHL
 
 # 124 ПРОСЕИВАТЬ <кто:эрг; что:ном> АНД √kudi; AOR kudi/H; IMP kudo/H; INF kudu/H
 
@@ -344,7 +342,7 @@
 
 ---------------------
 
-# 171 ПИТЬ (залпом;) <кто:эрг; что:ном> АНД √c:'adi; AOR c:'adi/HL; IMP c:'ado/HL; INF c:'adu/HL
+# 171 ПИТЬ (залпом) <кто:эрг; что:ном> АНД √c:'adi; AOR c:'adi/HL; IMP c:'ado/HL; INF c:'adu/HL
 
 # 171 ПИТЬ (глотками) <кто:эрг; что:ном> АНД √ɬ:ibdi; AOR ɬ:ibdi/HL; IMP ɬ:ibdoo/HL; INF ɬ:ibdu/HL
 
@@ -354,7 +352,7 @@
 
 # 174 СОСАТЬ (что-либо) <кто:эрг; что:ном> АНД √c:'undi; AOR c:'unni/HL; IMP c:'unno/HL; INF c:'unnu/HL
 
-# 174 СОСАТЬ (грудь) <кто:эрг; что:ном> АНД <~>||<кто:ном> √=oX:on; AOR 5 boX:on/H; IMP 5 boX:on/H; INF 5 boX:innu/HHL
+# 174 СОСАТЬ (грудь) <кто:эрг; что:ном> АНД <кто:ном> √=oX:on; AOR 5 boX:on/H; IMP 5 boX:on/H; INF 5 boX:innu/HHL
 
 # 175 КУСАТЬ <кто:эрг; кого:лок> АНД √q'amdi; AOR q'ammi/HL; IMP q'ammo/HL; INF q'ammu/HL
 
@@ -408,7 +406,7 @@
 
 # 197 ЗАРЕЗАТЬ <кто:эрг; кого:ном> АНД √=Vqu; AOR 3 biqu/HF, 3pl joqu; IMP 1 wuqᵂo/HF; INF 1 wuqudu/HHL
 
-# 198 СЛЫШАТЬ <кто:дат; что:ном» АНД <афф; ном> √anɬi; AOR anɬi/L; IMP anɬib/L; INF anɬidu/L
+# 198 СЛЫШАТЬ <кто:дат; что:ном> АНД <афф; ном> √anɬi; AOR anɬi/L; IMP anɬib/L; INF anɬidu/L
 
 # 199 СЛУШАТЬ <кто:ном; кого:лок> АНД √anč:i; AOR anč:i/L; IMP anč:ib/L; INF anč:idu/L
 
@@ -438,10 +436,10 @@
 
 # 213 ХВАЛИТЬ <кто:эрг; кого:ном> АНД √=ec:iqi; AOR 2sg/pl jec:iqi/HHL; IMP 1 woc:iqo/HHL; INF 1 woc:iqidu/HHL
 
-# 214 СЧИТАТЬ <кто:эрг; что:ном» АНД √agᵂa; AOR 2/3pl jagᵂa/HL, 1pl wagᵂa; IMP 3pl bagᵂo/HL; INF 3pl bagudu/HL
+# 214 СЧИТАТЬ <кто:эрг; что:ном> АНД √agᵂa; AOR 2/3pl jagᵂa/HL, 1pl wagᵂa; IMP 3pl bagᵂo/HL; INF 3pl bagudu/HL
 
-# 215 ЧИТАТЬ <кто:эрг; что:ном» АНД √ali; AOR 5 bali/L, 4 rali; IMP 5 balo/L; INF 5 balidu/L
+# 215 ЧИТАТЬ <кто:эрг; что:ном> АНД √ali; AOR 5 bali/L, 4 rali; IMP 5 balo/L; INF 5 balidu/L
 
-# 216 ПИСАТЬ <кто:эрг; что:ном» АНД √qᵂardi; AOR qᵂardi/HL; IMP qᵂardo/HL; INF qᵂardu/HL
+# 216 ПИСАТЬ <кто:эрг; что:ном> АНД √qᵂardi; AOR qᵂardi/HL; IMP qᵂardo/HL; INF qᵂardu/HL
 
 # 219 НАЧИНАТЬСЯ <что:Предл> АНД √a=ža; AOR 5sg/pl abža/L, 2sg/pl ajža; IMP abžab/L; INF 1 awžidu/L

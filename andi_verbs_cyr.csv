@@ -1,0 +1,202 @@
+,id,word,roles,and_roles,root,aor,imp,inf,root_cyr,stem oral/nasal,class,vowel,twol
+0,3,"ОКАЗЫВАТЬСЯ, ПОПАДАТЬ",<кто:ном; где:лок>,,√=Vkᵂ'o,"1 wukᵂ'o/H, 1 pl wok'o, 2 jikᵂ'o, 2pl jokᵂ'o","1 wukᵂ'ob/H, 1pl wokᵂ'obul",1 wuk'udu/HHL,√=VкІво,o,1,1,0
+1,4,ОСТАВАТЬСЯ,<кто:ном>,,√=ek:u,"1 wok:u, 2 jek:u",wok:ub,1 wok:udu,√=екку,o,1,0,1
+2,5,ОСТАВЛЯТЬ,<кто:эрг; что:ном>,,√=eta,"1sg/pl wota, 2sg/pl jeta",1 woto,1 wod:u,√=ета,o,1,0,1
+3,6,"ТЕРЯТЬСЯ, ИСЧЕЗАТЬ",<что:ном>,,√=Vt'u,"2 jit'u/HL, 2pl jot'u",1 wut'ub/HL,1 wut'udu/HL,√=VтІу,o,1,1,0
+4,8,ПРЯТАТЬСЯ,<кто:ном>,,√=eq'aš:i,2sg/pl jeq'aš:i/HL,1 woq'aš:ib/HL,1 woq'aš:du/HL,√=екъащи,o,1,0,1
+5,9,ПРЯТАТЬ,<кто:эрг; что:ном>,,√=eq'aš:i,2sg/pl jeq'aš:i/HL,5 beq'aš:o/HL,1 woq'aš:du/HL,√=екъащи,o,1,0,1
+6,10,ИСКАТЬ,<кто:эрг; что:ном>,,√kusdi,kusdi/HL,kusdo/HL,kusdu/HL,√кусди,o,0,0,0
+7,11,НАХОДИТЬ (случайно),<кто:дат; что:ном>,<афф; ном> ,√=Vson,"1 wuson/L, 1pl woson, 2 jison",3 bisom/L,3 bisonnu/L,√=Vсон,n,1,1,0
+8,12,ДАВАТЬ,<кто:эрг; что:ном; кому:дат>,,√ič:i,ič:i/HL,ič:o/HL,ič:idu/HL,√иччи,o,0,0,0
+9,13,ПРОДАВАТЬ,<кто:эрг; что:ном>,,√=aXoɬi,4sg/pl raXoɬi/HHL,5 baXoɬo/HHL,5 baXollu/HHL,√=ахолъи,?,1,0,0
+10,14,БРАТЬ,<кто:эрг; что:ном>,,√=VXi,"5 biXi/L, 5pl boXi",5 biXo/L,5 biXidu/L,√=Vхи,o,1,1,0
+11,15,ПОКУПАТЬ,<кто:эрг; что:ном>,,√=VXi,"5 biXi/L, 5pl boXi",5 biXo/L,5 biXidu/L,√=Vхи,o,1,1,0
+12,16,"ОТНИМАТЬ, ОТБИРАТЬ",<кто:эрг; что:ном>,,√=Vlon,"2 jilon/H, 2pl jolon, 4 rulon","1 wulom/H, 1pl wolom",1 wulinnu/HHL,√=Vлон,n,1,1,0
+13,17,ВЫБИРАТЬ,<кто:эрг; что:ном>,,√=oč'a,2sg/pl joč'a/HL,5 boč'o/HL,5 boc'idu/HL,√=очІа,o,1,0,0
+14,18,МЕНЯТЬ,<кто:эрг; что:ном>,<что:ном> ,√=eršo,5 beršo/H,5 beršob/H,5 beršidu/HHL,√=ершо,o,1,0,?
+15,19,"ЛОВИТЬ, ХВАТАТЬ, ДЕРЖАТЬ",<кто:эрг; кого:ном>,,√=Vč:i,"1 wuči/L, 1pl woč:i, 3 bič:i",1 wuč:o/L,1 wuč:idu/L,√=Vччи,o,1,1,0
+16,20,ПРОИГРЫВАТЬ,<кто:ном; кому:лок>,,√=VRan,"2 jiRan/H, 2pl jaRan","1 wuRam/H, 1pl waRamul",1 wuRinnu/HHL,√=Vгъан,n,1,1,0
+17,21,ВЫИГРЫВАТЬ,<кто:эрг; у кого:ном>,<ном; лок> ,√=Vša,"1 wuša/L, 2 jiša, 2pl jaša","2 jišab/L, 2pl jašabul",1 wušidu/L,√=Vша,o,1,1,0
+18,22,ИДТИ,<кто:ном>,,√=Vlon,"2 jilon/H, 2pl jolon, 4 rulon","1 wulom/H, 1pl wolom",1 wulinnu/HHL,√=Vлон,n,1,1,0
+19,23,УХОДИТЬ,<кто:ном>,,√=Vlon,"2 jilon/H, 2pl jolon, 4 rulon","1 wulom/H, 1pl wolom",1 wulinnu/HHL,√=Vлон,n,1,1,0
+20,24,ПРИХОДИТЬ,<кто:ном>,,√=VGᵂo,"2 jiGᵂo/LH, 3 biGᵂo, 2pl joGo","1 wuGᵂob/LH, 1pl wuGᵂobul",1 wuGidu/LHL,√=Vкъгво,o,1,1,0
+21,25,"ДОЙТИ, ДОСТИЧЬ",<кто:ном>,,√eqo,"1sg/pl woqo/H, 2sg/pl jeqo","1 woqob/H, 1pl woqobul",2 jeqidu/HHL,√ехъо,o,0,0,0
+22,26,ВХОДИТЬ,<кто:ном>,,√kabdi,kabdi,kabdib,kabdu,√кабди,o,0,0,0
+23,28,СОБИРАТЬСЯ,<кто:ном>,,√=ak'arundi,5pl bak'arunni/HHL,1pl wak'arunnibul/HHL,5pl bak'arunnu/HHL,√=акІарунди,n,1,0,?
+24,29,СОБИРАТЬ,<кто:эрг; что:ном>,,√=ak'arundi,5pl bak'arunni/HHL,3 bak'arunno/HHL,5pl bak'arunnu/HHL,√=акІарунди,n,1,0,?
+25,30,"ПУСКАТЬ, ОТПУСКАТЬ",<кто:эрг; кого:ном>,,√elta,elta,elto,eld:u,√елта,o,0,0,0
+26,31,ГНАТЬ,<кто:эрг; кого:ном>,,√=Vq'i,"1 wuq'i/HF, 1pl waq'i, 2 juq'i, 2pl jaq'i","1 wuqᵂ'o/HF, 1pl waqᵂ'o","1 wuq'idu/HHF, 1pl waq'idu",√=Vкъи,o,1,1,0
+27,32,БЕЖАТЬ,<кто:ном>,,√heldi,helli/H,"hellib/H, pl hellibul",hellu/H,√гьелди,?,0,0,0
+28,33,УБЕГАТЬ,<кто:ном>,,√=Vč:'in,"2 juč:'in/HF, 2pl jač:'in","1 wuč:'im/HF, 1pl wač:'mul",1 wuč:'innu/HHL,√=VчІчІин,n,1,1,0
+29,34,ПРЫГАТЬ,<кто:ном>,,√ɬibdi,ɬibdi/F,"ɬibdib/F, pl ɬibdibul",ɬibdu/F,√лъибди,o,0,0,0
+30,35,ЛЕТЕТЬ,<кто:ном>,,√burdi,burdi/F,"burdib/F, pl burdibul",burdu/F,√бурди,o,0,0,0
+31,36,КРУЖИТЬСЯ,<кто:ном>,,√s:ordi,s:ordi/HF,"s:ordib/HF, pl s:ordibul",s:ordu/HF,√ссорди,o,0,0,0
+32,39,СКОЛЬЗИТЬ,<кто:ном>,,√č:'ardi,č:'ardi/FL,"č:'ardib/FL, pl č:'ardibul",č:'ardu/FL,√чІчІарди,o,0,0,0
+33,39,СКОЛЬЗИТЬ,<кто:ном>,,√Rurdi,Rurdi/HF,"Rurdib/HF, pl Rurdibul",Rurdu/HF,√гъурди,o,0,0,0
+34,40,ВСТАВАТЬ,<кто:ном>,,√hirc'i,hirc'i/H,"hirc'ib/H, pl hirc'ibul",hirc'idu/HHL,√гьирцІи,o,0,0,0
+35,40,ВСТАВАТЬ,<кто:ном>,,√=Vč:'i,"2 jič:'i/HL, 2pl jač:'i","1 wuč:'ib/HL, 1pl wač:'ibul",1 wuč:'idu/HL,√=VчІчІи,o,1,1,0
+36,40,ВСТАВАТЬ,<кто:ном>,,√=Vč:'i,"2 jič:'i/HL, 2pl joč:'i","1 wuč:'ib/HL, 1pl woč:'ibul",1 wuč:'idu/HL,√=VчІчІи,o,1,1,0
+37,42,"ОСТАНАВЛИВАТЬСЯ, СТОЯТЬ",<кто:ном>,,√=VRi,"2 jiRi/HF, 2pl joRi","1 wuRib/HR, 1pl woRibul",1 wuRidu/HHL,√=Vгъи,o,1,1,0
+38,45,ЛОЖИТЬСЯ,<кто:ном>,,√girdi,girdi/F,"girdib/F, pl girdibul",girdu/F,√гирди,o,0,0,0
+39,50,ГНИТЬ,<что:ном>,,√turdi,turdi/HL,turdib/HL,turdu/HL,√турди,o,0,0,0
+40,50,ГНИТЬ,<что:ном>,,√šanaXu,šanaXu/HHL,šanaXub/HHL,šanaXudu/HHL,√шанаху,o,0,0,0
+41,51,ВЯНУТЬ,<что:ном>,,√=eč'andi,4 reč'anni/HHL,4 reč'annib/HHL,4 reč'annu/HHL,√=ечІанди,n,1,0,?
+42,51,ВЯНУТЬ (портиться),<что:ном>,,√=Vč'o,"1 wuč'o/HL, 2 jič'o, 2pl joč'o",1 wuč'ob/HL,1 wuč'idu/HL,√=VчІо,o,1,1,0
+43,52,БРОДИТЬ (о тесте),<что:ном>,,√purXundi,purXunni/HHL,purXunnib/HHL,purXunnu/HHL,√пурхунди,n,0,0,0
+44,53,СВЕРТЫВАТЬСЯ (~ прокисать),<что:ном>,,√=etito,4 retito/HL,4 retitob/HL,4 retitidu/HL,√=етито,o,1,0,?
+45,54,ТАЯТЬ,<что:ном>,,√=V?un,"4 ri?un/H, 4pl ro?un",4 ri?um/H,4 ri?unnu/HHL,√=Vъун,n,1,1,0
+46,56,ГОРЕТЬ,<что:ном>,,√c'ato,c'ato/HL,c'atob/HL,c'atidu/HL,√цІато,o,0,0,0
+47,57,ЖЕЧЬ,<кто:эрг; что:ном>,,√c'ato,c'ato/HL,c'ato/HL,c'atidu/HL,√цІато,o,0,0,0
+48,58,ЗАГОРАТЬСЯ,<что:ном>,,√=Vkᵂo,"4 rikᵂo/HL, 4pl rokᵂo",4 rikᵂob/HL,4 rikudu/HL,√=Vкво,o,1,1,0
+49,60,"ГАСНУТЬ, ПОТУХНУТЬ",<что:ном>,,√č'ant'u,č'ant'u/HL,č'ant'ub/HL,č'ant'udu/HL,√чІантІу,o,0,0,0
+50,62,ОСТЫВАТЬ,<что:ном>,,√halto,halto/HL,haltob/HL,haltidu/HL,√гьалто,o,0,0,0
+51,63,БОЛЕТЬ,<что:ном>,,√ruq'u,ruq'u/H,ruq'ub/H,ruq'udu/H,√рукъу,o,0,0,0
+52,64,ОПУХАТЬ,<что:ном>,,√a=aXo,"5sg/pl abaXo/H, 4 araXo",1 awaXob/H,1 awaXidu/HHHL,√a=ахо,o,infix,0,0
+53,66,ЧЕСАТЬ,<кто:эрг; что:ном>,,√qeldi,qelli/HL,qello/HL,qellu/HL,√хъелди,?,0,0,0
+54,67,СЫПАТЬСЯ (рассыпаться),,,√čabdi,čabdi/F,"čabdib/F, pl čabdibul",čabdu/F,√чабди,o,0,0,0
+55,69,КАПАТЬ,<что:ном>,,√t'onk'undi,t'onk'unni/HHF,t'onk'unnib/HHF,t'onk'unnu/HHF,√тІонкІунди,n,0,0,0
+56,70,НАПОЛНЯТЬСЯ,<что:ном>,,√=Vc'i,"5 bic'i/L, 5pl boc'i",5 bic'ib/L,5 bic'idu/L,√=VцІи,o,1,1,0
+57,72,УДАРЯТЬ,<кто:эрг; кого:дат>,<эрг;лок> ,√kᵂ:'abdi,kᵂ:'abdi/RL,kᵂ:'abdo/RL,kᵂ:'abdu/RL,√кІкІвабди,o,0,0,0
+58,72,УДАРЯТЬ,<кто:эрг; кого:дат>,<эрг;лок> ,√ǯ:abi,ǯ:abi/H,ǯ:abo/H,ǯ:abu/H,√джджаби,o,0,0,0
+59,73,БИТЬ,<кто:эрг; кого:ном>,,√č'indi,č'inni/HL,č'inno/HL,č'innu/HL,√чІинди,n,0,0,0
+60,74,ЛОМАТЬСЯ,<что:ном>,,√=Vqin,"5 biqin/HL, 5pl boqin","5 biqim/HL, 5pl boqimul",5 biqinnu/HL,√=Vхъин,n,1,1,0
+61,74,ЛОМАТЬСЯ (раскалываться),<что:ном>,,√Gardi,Gardi,Gardib,Gardu,√къгарди,o,0,0,0
+62,76,РЕЗАТЬ,<кто:эрг; что:ном>,,√=Vq'i,"1 wuq'i/HF, 1pl waq'i, 2 juq'i, 2pl jaq'i","1 wuqᵂ'o/HF, 1pl waqᵂ'o","1 wuq'idu/HHF, 1pl waq'idu",√=Vкъи,o,1,1,0
+63,77,"КРОШИТЬ, РЕЗАТЬ НА КУСКИ",<кто:эрг; что:ном>,,√=aq'aq'i,"5 baq'aq'i/HHL, 4 raq'aq'i",4 raq'aq'o/HHL,raq'aq'idu/HHL,√=акъакъи,o,1,0,?
+64,78,ПИЛИТЬ,<кто:эрг; что:ном>,,√quqandi,quqanni/HHL,quqanno/HHL,quqannu/HHL,√хъухъанди,n,0,0,0
+65,79,ЛОПНУТЬ,<что:ном>,,√L'at'undi,L'at'unni/HL,L'at'unnib/HL,L'at'unnu/HL,√кьатІунди,n,0,0,0
+66,79,ЛОПНУТЬ,<что:ном>,,√L'ahundi,L'ahunni/HL,L'ahunnib/HL,L'ahunnu/HL,√кьагьунди,n,0,0,0
+67,80,РВАТЬСЯ (частично),<что:ном>,,√qabdi,qabdi/RL,qabdib/RL,qabdu/RL,√хъабди,o,0,0,0
+68,80,РВАТЬСЯ (на части),<что:ном>,,√tandi,tanni/RF,tannib/RF,tannu/RF,√танди,n,0,0,0
+69,85,ТЕРЕТЬ,<кто:эрг; что:ном>,,√č:'andi,č:'anni/HL,č:'anno/HL,č:'annu/HL,√чІчІанди,n,0,0,0
+70,86,ЦАРАПАТЬ,<кто:эрг; что:ном>,<эрг; лок> ,√qeldi,qelli/HL,qello/HL,qellu/HL,√хъелди,?,0,0,0
+71,87,"ДАВИТЬ, ЖАТЬ, СЖИМАТЬ (выжимать)",<кто:эрг; что:ном>,,√c:'urdi,c:'urdi/HF,c:'urdo/H,c:'urdu/HF,√цІцІурди,o,0,0,0
+72,88,ГНУТЬСЯ,<что:ном>,,√č:'urdi,č:'urdi/RL,č:'urdib/RL,č:'urdu/RL,√чІчІурди,o,0,0,0
+73,88,ГНУТЬСЯ,<что:ном>,,√geldi,gelli/HL,gellib/HL,gellu/HLH,√гелди,?,0,0,0
+74,88,ГНУТЬСЯ,<что:ном>,,√q'ulundi,q'ulunni/HHL,q'ulunnib/HHL,q'ulunnu/HHL,√къулунди,n,0,0,0
+75,88,ГНУТЬСЯ,<что:ном>,,√č'ilok'urɬi,č'ilok'urɬi/HHHL,č'ilok'urɬib/HHHL,č'ilok'urɬidu/HHHL,√чІилокІурлъи,o,0,0,0
+76,90,"ТРОГАТЬ, КАСАТЬСЯ",<кто:эрг; чем:ном; что/чего:лок>,<эрг; инст; ном> ,√Gᵂobdi,Gᵂobdi/HL,Gᵂobdo/HL,Gᵂobdu/HL,√къгвобди,o,0,0,0
+77,91,ТОЛКАТЬ,<кто:эрг; что:ном>,,√Gumdi,Gummi/HL,Gummo/HL,Gummu/HL,√къгумди,?,0,0,0
+78,92,ТЯНУТЬ,<кто:эрг; что:ном>,,√L'andi,L'anni/HL,L'anno/HL,L'annu/HL,√кьанди,n,0,0,0
+79,93,"ТАЩИТЬ, ВОЛОЧИТЬ",<кто:эрг; что:ном>,,√qurdi,qurdi/HL,qurdo/HL,qurdu/HL,√хъурди,o,0,0,0
+80,93,"ТАЩИТЬ, ВОЛОЧИТЬ",<кто:эрг; что:ном>,,√=Vš:i,"4 ruš:i/L, 4pl raš:i","4 ruš:o/L, 4pl raš:o",4 ruš:du/L,√=Vщи,o,1,1,0
+81,94,НЕСТИ (приносить),<кто:эрг; что:ном>,,√=Vgo,"5 biqo/HL, 5pl boqo",5 biqo,5 biqidu,√=Vго,o,1,1,0
+82,94,НЕСТИ (брать с собой),<кто:эрг; что:ном>,,√=ač:undi,4sg/pl rač:unni/L,4 rač:unno,4 rač:unnu,√=аччунди,n,1,0,?
+83,94,"НЕСТИ (нести, уносить)",<кто:эрг; что:ном>,,√=VXi,"4 riXi/L, 5 biXi, 5pl boXi",4 riXo,4 riXidu,√=Vхи,o,1,1,0
+84,95,"БРОСАТЬ, КИДАТЬ",<кто:эрг; что:ном; во что:лок>,,√šamdi,šammi/HL,šammo/HL,šammu/HL,√шамди,?,0,0,0
+85,96,СТРЕЛЯТЬ,<кто:эрг; в кого:лок; из чего:ном>,<эрг; ном; лок> ,√bilan,bilan/L,bilon/L,bilinnu/L,√билан,n,0,0,0
+86,97,"КАЧАТЬСЯ, ШЕВЕЛИТЬСЯ",<что:ном>,,√GiGabšo,GiGabšo/HHL,GiGabšob/HHL,GiGabšdu/HHL,√къгикъгабшо,o,0,0,0
+87,98,КАЧАТЬ,<кто:эрг; что:ном>,,√GiGabšo,GiGabšo/HHL,GiGabšo/HHL,GiGabšdu/HHL,√къгикъгабшо,o,0,0,0
+88,99,МАХАТЬ,<кто:эрг; чем:ном>,,√xᵂ:ahešo,xᵂ:ahešo/LHL,xᵂ:ahešo/LHL,xᵂ:ahešdu/LHL,√хьхьвагьешо,o,0,0,0
+89,100,ОТКРЫВАТЬСЯ,<что:ном>,,√arXon,arXon/HL,arXom/HL,arXinnu/HL,√aрхон,n,0,0,0
+90,101,ОТКРЫВАТЬ,<кто:эрг; что:ном>,,√arXon,arXon/HL,arXon/HL,arXinnu/HL,√aрхон,n,0,0,0
+91,102,ОТПИРАТЬ,<кто:эрг; что:ном>,,√arXon,arXon/HL,arXom/HL,arXinnu/HL,√aрхон,n,0,0,0
+92,103,ЗАКРЫВАТЬСЯ,<что:ном>,,√joq'an,joq'an/H,joq'om/H,joq'innu/HHL,√йокъан,n,0,0,0
+93,104,ЗАКРЫВАТЬ,<кто:эрг; что:ном>,,√joq'an,joq'an/H,joq'on/H,joq'innu/HHL,√йокъан,n,0,0,0
+94,105,ЗАПИРАТЬ,<кто:эрг; чем:ном>,,√daš:i,daš:i/HL,daš:o/HL,daš:du/HL,√дащи,o,0,0,0
+95,106,МАЗАТЬ,<кто:эрг; чем:ном; на что:лок>,,√=ušo,5 bušo/L,5 bušo/L,5 bušidu/L,√=ушо,o,1,0,?
+96,107,ПРИВЯЗЫВАТЬ,<кто:эрг; что:ном; к чему:лок>,,√=ošan,2sg/pl jošan/L,5 bošon/L,5 bošinnu/L,√=ошан,n,1,0,?
+97,108,СВЯЗЫВАТЬ,<кто:эрг; что:ном>,,√=ošan,2sg/pl jošan/L,5 bošon/L,5 bošinnu/L,√=ошан,n,1,0,?
+98,109,ОТВЯЗЫВАТЬ,<кто:эрг; что:ном>,,√=ajčo,5 bajčo/L,5 bajčo/L,5 bajčidu/L,√=айчо,o,1,0,?
+99,110,ПРИЛИПАТЬ,<что:ном>,,√=ac'i,5 bac'i/HL,5 bac'ib/HL,5 bac'idu/HL,√=ацІи,o,1,0,?
+100,113,СМЕШИВАТЬ,<кто:эрг; что:ном (c чем:лок)>,,√=eRerRoɬi,"5 beRerRoɬi/HHHL, 5pl beRerRolɬi",5 beRerRoɬo/HHHL,5 beRerRollu/HHHL,√=егъергъолъи,?,1,0,?
+101,114,РАБОТАТЬ,<кто:ном>,,√halt'undi,halt'unni/HL,"halt'unnib/HL, pl halt'unnibul",halt'unnu/HL,√гьалтІунди,n,0,0,0
+102,115,ДЕЛАТЬ,<кто:эрг; что:ном>,,√ihi,ihi/L,iho/LR,idu/L,√игьи,o,0,0,0
+103,115,ДЕЛАТЬ,<кто:эрг; что:ном>,,√i,ihi/L,iho/LR,idu/L,√и,o,0,0,0
+104,116,КОПАТЬ,<кто:эрг; что:ном>,,√Xᵂardi,Xᵂardi/HL,Xᵂardo/HL,Xᵂardu/HL,√хварди,o,0,0,0
+105,117,ПАХАТЬ,<кто:эрг; что:ном>,,√=eL'i,4sg/pl reL'i/RF,4 reL'o/RF,4 reL'idu/RHL,√=екьи,o,1,0,?
+106,118,СЕЯТЬ,<кто:эрг; что:ном>,,√=eL'i,4sg/pl reL'i/RF,4 reL'o/RF,4 reL'idu/RHL,√=екьи,o,1,0,?
+107,119,ДОИТЬ,<кто:эрг; кого:ном>,,√=erč:'i,"3 berč:'i/HF, 3pl jerč:'i","3 berč:'o/HR, 3pl jerč:'o",3 berč:'idu/HHL,√=ерчІчІи,o,1,0,?
+108,120,КОСИТЬ,<кто:эрг; что:ном>,,√X:andi,X:anni/HF,X:anno/HF,X:annu/HF,√хханди,n,0,0,0
+109,121,ЖАТЬ,<кто:эрг; что:ном>,,√=okᵂo,4 rokᵂo/H,4 rokᵂo/H,4 rokudu/HHL,√=окво,o,1,0,?
+110,124,ПРОСЕИВАТЬ,<кто:эрг; что:ном>,,√kudi,kudi/H,kudo/H,kudu/H,√куди,o,0,0,0
+111,125,МОЛОТЬ,<кто:эрг; что:ном>,,√iXᵂoqi,iXᵂoqi/LRF,iXᵂoqo/LR,iXᵂoqidu/LRHL,√ихвохъи,o,0,0,0
+112,127,ТКАТЬ,<кто:эрг; что:ном>,,√=eš:i,"5 beš:i/HL, 4 reš:i",5 beš:o/HL,5 beš:du/HL,√=ещи,o,1,0,?
+113,128,ШИТЬ,<кто:эрг; что:ном>,,√=aXon,5 baXon/HF,5 baXon/HF,5 baXinnu/HHL,√=ахон,n,1,0,?
+114,129,КРОИТЬ,<кто:эрг; что:ном>,,√=Vq'i,"1 wuq'i/HF, 1pl waq'i, 2 juq'i, 2pl jaq'i","1 wuqᵂ'o/HF, 1pl waqᵂ'o","1 wuq'idu/HHF, 1pl waq'idu",√=Vкъи,o,1,1,0
+115,131,ВАРИТЬСЯ,<что:ном>,,√=Vɬon,"5 biɬon/L, 5pl boɬon",5 biɬon/L,5 biɬinnu/L,√=Vлъон,n,1,1,0
+116,130,КИПЕТЬ,<что:ном>,,√oXᵂ:on,oXᵂ:on/H,oXᵂ:om/H,oXᵂ:unnu/HHL,√оххвон,n,0,0,0
+117,133,ВАРИТЬ,<кто:эрг; что:ном>,,√=Vɬon,"5 biɬon/L, 5pl boɬon",5 biɬon/L,5 biɬinnu/L,√=Vлъон,n,1,1,0
+118,134,ПЕЧЬ,<кто:эрг; что:ном>,,√=eža,4sg/pl reža/RH,5 bežo/RH,5 bežidu/RHL,√=ежа,o,1,0,?
+119,135,ЖАРИТЬ (ЗЕРНО),<кто:эрг; что:ном>,,√=eš:i,3 beš:i/HL,3 beš:o/HL,3 beš:du/HL,√=ещи,o,1,0,?
+120,136,МЕРИТЬ,<кто:эрг; что:ном>,,√=ason,"5 bason/L, 4 rason",5 bason/L,5 basinnu/L,√=асон,n,1,0,?
+121,137,МЕСИТЬ,<кто:эрг; что:ном>,,√kᵂ:'ardi,kᵂ:'ardi/RL,kᵂ:'ardo/RL,kᵂ:'ardu/RL,√кІкІварди,o,0,0,0
+122,138,ПОДМЕТАТЬ,<кто:эрг; что:ном>,,√Lardi,Lardi/HL,Lardo/HL,Lardu/HL,√лІарди,o,0,0,0
+123,139,СТИРАТЬ,<кто:эрг; что:ном>,,√a=čo,"2sg/pl ajčo/H'L, 4sg/pl arčo",3 abčo/HL,3 abčidu/HLL,√a=чо,o,infix,0,0
+124,140,ПРИЧЕСЫВАТЬ,<кто:эрг; что:ном>,,√=oXᵂo,4 roXᵂo/H,4 roXᵂo/H,4 roXudu/HHL,√=охво,o,1,0,?
+125,141,СТРИЧЬ,<кто:эрг; кого:ном>,,√q'irdi,q'irdi/RL,q'irdo/RL,q'irdu/RL,√къирди,o,0,0,0
+126,142,БРИТЬ,<кто:эрг; что:ном>,,√X:andi,X:anni/HF,X:anno/HF,X:annu/HF,√хханди,n,0,0,0
+127,143,НАДЕВАТЬ ПЛАТЬЕ (одежду выше пояса),<кто:эрг; что:ном>,,√=ola,"5 sg/pl bola/HL, 4 sg/pl rola",5 bolo/HL,5 bolidu/HL,√=ола,o,1,0,?
+128,144,"НАДЕВАТЬ ШТАНЫ (одежду ниже пояса), ОБУВАТЬ",<кто:эрг; что:ном>,,√riL'in,"4 riL'in/RH, 4pl roL'in",4 riL'on/RH,4 riL'innu/RHL,√рикьин,n,0,0,0
+129,145,НАДЕВАТЬ ШАПКУ (головной Убор),<кто:эрг; что:ном>,,√=Vkᵂ'oɬi,"5 bikᵂ'oɬi/LHL, 5pl bokᵂ'olɬi",5 bikᵂ'oɬo,5 bikᵂ'ollu,√=VкІволъи,?,1,1,0
+130,149,СВЕЖЕВАТЬ,<кто:эрг; что:ном>,,√ruqi,ruqi/HF,ruqᵂo/HF,ruqidu/HHL,√рухъи,o,0,0,0
+131,150,ГОВОРИТЬ,<кто:эрг; что:ном||Предл; кому:дат>,<эрг;ном;лок> ,√hit'on,hit'on/LH,hit'om/LH,hit'onnu/LHL,√гьитІон,n,0,0,0
+132,150,ГОВОРИТЬ,<кто:эрг; что:ном||Предл; кому:дат>,<эрг;ном;лок> ,√bosan,bosan/HL,boson,bosinnu,√босан,n,0,0,0
+133,151,РАЗГОВАРИВАТЬ,<кто:ном; с кем:лок>,<ном; ном> ,√=et'on,"1sg/pl wot'on/H, 2sg/pl jet'on",1 wot'om/H,1 wot'innu/HHL,√=етІон,n,1,0,1
+134,153,МЫЧАТЬ,<кто:ном>,,√ummedi,ummedi/L,ummedib/L,ummedu/L,√уммеди,o,0,0,0
+135,154,БЛЕЯТЬ (о козах),<кто:ном>,,√be?edi,be?edi/HHL,be?edib/HHL,be?edu/HHL,√беъеди,o,0,0,0
+136,155,БЛЕЯТЬ (об овцах),<кто:ном>,,√me?edi,me?edi/HHL,me?edib/HHL,me?edu/HHL,√меъеди,o,0,0,0
+137,155,БЛЕЯТЬ (об овцах) (о баране),<кто:ном>,,√Rardi,Rardi/HL,Rardib/HL,Rardu/HL,√гъарди,o,0,0,0
+138,156,РЖАТЬ,<кто:ном>,,√ho:ho:di,ho:ho:di/HHL,ho:ho:dib/HHL,ho:ho:du/HHL,√гьоᵸгьоᵸди,o,0,0,0
+139,157,КРИЧАТЬ (об осле),<кто:ном>,,√ho:?idi,ho:?idi/HL,ho:?idib/HL,ho:?idu/HL,√гьоᵸъиди,o,0,0,0
+140,157,КРИЧАТЬ (об осле),<кто:ном>,,√ho:ʕidi,ho:ʕidi/HL,ho:ʕidib/HL,ho:ʕidu/HL,√гьоᵸгІиди,o,0,0,0
+141,158,МЯУКАТЬ,<кто:ном>,,√mijawdi,mijawdi/LRF,mijawdib/LRF,mijawdu/LRF,√мийавди,o,0,0,0
+142,159,ЛАЯТЬ,<кто:ном>,,√aXo,"3 baXo/L, 3pl jaXo",3 baXob/L,3 baXidu/L,√aхо,o,0,0,0
+143,160,РЫЧАТЬ,<кто:ном>,,√k:'undi,k:'unni/L,k:'unnib/L,k:'unnu/L,√кІкІунди,n,0,0,0
+144,161,ВЫТЬ,<кто:ном>,,√k:'undi,k:'unni/L,k:'unnib/L,k:'unnu/L,√кІкІунди,n,0,0,0
+145,162,КУКАРЕКАТЬ,<кто:ном>,,√u:?e:di,u:?e:di/HHL,u:?e:dib/HHL,u:?e:du/HHL,√уᵸъеᵸди,o,0,0,0
+146,163,ЖУЖЖАТЬ,<кто:ном>,,√žundi,žunni/HL,žunnib/HL,žunnu/HL,√жунди,n,0,0,0
+147,164,ШИПЕТЬ,<кто:ном>,,√š:omdi,š:ommi/HF,š:ommo/H,š:ommu/HF,√щомди,?,0,0,0
+148,164,ШИПЕТЬ,<кто:ном>,,√čiš:undi,čiš:unni/L,čiš:unnib/L,čiš:unnu/L,√чищунди,n,0,0,0
+149,165,СВИСТЕТЬ,<кто:эрг>,,√š:omdi,š:ommi/HF,š:ommo/H,š:ommu/HF,√щомди,?,0,0,0
+150,166,ЗВЕНЕТЬ,<что:ном>,,√zarX:undi,zarX:unni/HL,zarX:unnib/HL,zarX:unnu/HL,√зарххунди,n,0,0,0
+151,167,СКРИПЕТЬ,<что:ном>,,√q'irrundi,q'irrunni/L,q'irrunnib/L,q'irrunnu/L,√къиррунди,n,0,0,0
+152,168,ЕСТЬ,<кто:эрг; что:ном>,,√ikᵂon,ikᵂon/HL,ikᵂom/HL,ikunnu/HL,√иквон,n,0,0,0
+153,169,ЕСТЬ,<кто:ном>,<эрг> ,√ikᵂon,ikᵂon/HL,ikᵂom/HL,ikunnu/HL,√иквон,n,0,0,0
+154,171,ПИТЬ (залпом),<кто:эрг; что:ном>,,√c:'adi,c:'adi/HL,c:'ado/HL,c:'adu/HL,√цІцІади,o,0,0,0
+155,171,ПИТЬ (глотками),<кто:эрг; что:ном>,,√ɬ:ibdi,ɬ:ibdi/HL,ɬ:ibdoo/HL,ɬ:ibdu/HL,√лълъибди,o,0,0,0
+156,172,ЖЕВАТЬ,<кто:эрг; что:ном>,,√č'amdi,č'ammi/HL,č'ammo/HL,č'ammu/HL,√чІамди,?,0,0,0
+157,173,ГРЫЗТЬ,<кто:эрг; что:ном>,,√qᵂ'ardi,qᵂ'ardi/HL,qᵂ'ardo/HL,qᵂ'ardu/HL,√къварди,o,0,0,0
+158,174,СОСАТЬ (что-либо),<кто:эрг; что:ном>,,√c:'undi,c:'unni/HL,c:'unno/HL,c:'unnu/HL,√цІцІунди,n,0,0,0
+159,174,СОСАТЬ (грудь),<кто:эрг; что:ном>,<кто:ном> ,√=oX:on,5 boX:on/H,5 boX:on/H,5 boX:innu/HHL,√=оххон,n,1,0,?
+160,175,КУСАТЬ,<кто:эрг; кого:лок>,,√q'amdi,q'ammi/HL,q'ammo/HL,q'ammu/HL,√къамди,?,0,0,0
+161,176,ЛИЗАТЬ,<кто:эрг; кого:ном>,,√lamdi,lammi/HL,lammo/HL,lammu/HL,√ламди,?,0,0,0
+162,177,ЦЕЛОВАТЬ,<кто:эрг; кого:дат>,<эрг; лок> ,√hobbadi,hobbadi/HL,hobbado/HL,hobbadu/HL,√гьоббади,o,0,0,0
+163,178,ГЛОТАТЬ,<кто:эрг; что:ном>,,√=Vk:'un,"5 bik:'un/HL, 5pl bok:'un/HL",5 bikᵂ:'on/HL,5 bik:'unnu/HL,√=VкІкІун,n,1,1,0
+164,179,ПЛЕВАТЬ,<кто:эрг; на что:лок>,,√tudi,tudi/HL,tudo/HL,tudu/HL,√туди,o,0,0,0
+165,180,БЛЕВАТЬ,<кто:ном>,,√k'ardi,k'ardi/HL,k'ardib/HL,k'ardu/HL,√кІарди,o,0,0,0
+166,181,ОТРЫГИВАТЬ,<кто:ном>,,√wa?ešo,wa?ešo/HHL,wa?ešob/HHL,wa?ešdu/HHL,√ваъешо,o,0,0,0
+167,181,ОТРЫГИВАТЬ,<кто:ном>,,√waʕešo,waʕešo/HHL,waʕešob/HHL,waʕešdu/HHL,√вагІешо,o,0,0,0
+168,182,ЧИХАТЬ,<кто:эрг>,<ном> ,√ebčidi,ebčidi/HL,ebčidib/HL,ebčidu/HL,√ебчиди,o,0,0,0
+169,183,КАШЛЯТЬ,<кто:эрг>,<ном> ,√uhudi,uhudi/HHL,uhudib/HHL,uhudu/HHL,√угьуди,o,0,0,0
+170,184,МОЧИТЬСЯ,<кто:эрг>,<ном> ,√hink:'uš:i,hink:'uš:i/HHL,hink:'uš:ib/HHL,hink:'uš:du/HHL,√гьинкІкІущи,o,0,0,0
+171,185,ИСПРАЖНЯТЬСЯ,<кто:эрг>,<ном> ,√č:imdi,č:immi/L,č:immib/L,č:immu/L,√ччимди,?,0,0,0
+172,187,МЕРЗНУТЬ,<кто:ном>,,√zarXu,zarXu/L,zarXub/L,zarXudu/L,√зарху,o,0,0,0
+173,187,МЕРЗНУТЬ,<кто:ном>,,√eRešo,"1 woRešo/HHL, 2 jeRešo",1 woRešob/HHL,1 woRešdu/HHL,√егъешо,o,0,0,0
+174,188,ДРОЖАТЬ,<кто:ном>,,√č'irč'išo,č'irč'išo/HHL,č'irč'išob/HHL,č'irč'išdu/HHL,√чІирчІишо,o,0,0,0
+175,189,ВЗДРАГИВАТЬ,<кто:ном>,,√lirdi,lirdi/L,lirdib/L,lirdu/L,√лирди,o,0,0,0
+176,190,ПЛАКАТЬ,<кто:ном>,,√=ek'uli,"2 jek'uli/HL, 2pl jek'ulli",1 wok'ulib/HL,1 wok'ulidu/HL,√=екІули,o,1,0,1
+177,191,ВСХЛИПЫВАТЬ,<кто:ном>,,√ɬ:imq'ešo,ɬ:imq'ešo/RH,ɬ:imq'ešob/RH,ɬ:imq'ešdu/RHL,√лълъимкъешо,o,0,0,0
+178,192,СМЕЯТЬСЯ,<кто:ном; (над кем:лок)>,,√=eɬ:i,"1sg/pl woɬ:i/HL, 2sg/pl jeɬ:i",1 woɬ:ib/HL,1 woɬ:idu/HL,√=елълъи,o,1,0,1
+179,193,УСТАВАТЬ,<кто:ном>,,√=aRi,"1 waRi/L, 2 jaRi",1 waRib/L,1 waRidu/L,√=агъи,o,1,0,0
+180,194,СПАТЬ,<кто:ном>,,√L'iXon,L'iXon/HL,L'iXom/HL,L'iXinnu/HL,√кьихон,n,0,0,0
+181,195,УМИРАТЬ,<кто:ном>,,√=Vč'o,"1 wuč'o/HL, 2 jič'o, 2pl joč'o",1 wuč'ob/HL,1 wuč'idu/HL,√=VчІо,o,1,1,0
+182,196,УБИВАТЬ,<кто:эрг; кого:ном>,,√ǯ:abi,ǯ:abi/H,ǯ:abo/H,ǯ:abu/H,√джджаби,?,0,0,0
+183,197,ЗАРЕЗАТЬ,<кто:эрг; кого:ном>,,√=Vqu,"3 biqu/HF, 3pl joqu",1 wuqᵂo/HF,1 wuqudu/HHL,√=Vхъу,o,1,1,0
+184,198,СЛЫШАТЬ,<кто:дат; что:ном>,<афф; ном> ,√anɬi,anɬi/L,anɬib/L,anɬidu/L,√aнлъи,o,0,0,0
+185,199,СЛУШАТЬ,<кто:ном; кого:лок>,,√anč:i,anč:i/L,anč:ib/L,anč:idu/L,√aнччи,o,0,0,0
+186,200,ВИДЕТЬ,<кто:дат; кого:ном>,<афф; ном> ,√haGᵂo,haGᵂO/H,haGᵂob/H,haGidu/HHL,√гьакъгво,o,0,0,0
+187,201,СМОТРЕТЬ,<кто:ном; на кого:лок>,<ном||эрг; лок> ,√harč'on,harč'on/H,harč'om/H,harč'innu/HHL,√гьарчІон,n,0,0,0
+188,202,НЮХАТЬ,<кто:эрг; что:ном>,,√šundi,šunni/HL,šunno/HL,šunnu/HL,√шунди,n,0,0,0
+189,203,"ХОТЕТЬ, ЛОВИТЬ",<кто:дат; что:ном||Предл>,<афф; ном> ,√hilu,hilu/HL,hilub/H,hiludu/HHL; PRS hilur/HL,√гьилу,o,0,0,0
+190,204,"БОЯТЬСЯ, ПУГАТЬСЯ",<кто:ном; чего:лок>,,√sirdi,sirdi/HL,sirdib/HL,sirdu/HL,√сирди,o,0,0,0
+191,206,РАДОВАТЬСЯ,<кто:ном>,,√=erhan,2sg/pl jerhan/HL,1 worham/HL,1 worhinnu/HL,√=ергьан,n,1,0,1
+192,207,ВЕРИТЬ,<кто:ном; кому:лок>,,√bužu,bužu/H,bužub/H,bužudu/HHL,√бужу,o,0,0,0
+193,208,ЗНАТЬ,<кто:дат; что:ном>,<афф; ном> ,√c'indi,c'inni/HL,c'innib/HL,c'innu/HL,√цІинди,n,0,0,0
+194,209,ЗАБЫВАТЬ,<кто:дат; что:ном>,<афф; ном> ,√beč:o,beč:o/HL,beč:ob/HL,beč:idu/HL,√беччо,o,0,0,0
+195,210,ПОНИМАТЬ,<кто:дат; что:ном>,<афф; ном> ,√bič:'undi,bič:'unni/HHL,bič:'unnib/HHL,bič:'unnu/HHL,√бичІчІунди,n,0,0,0
+196,213,ХВАЛИТЬ,<кто:эрг; кого:ном>,,√=ec:iqi,2sg/pl jec:iqi/HHL,1 woc:iqo/HHL,1 woc:iqidu/HHL,√=еццихъи,o,1,0,1
+197,214,СЧИТАТЬ,<кто:эрг; что:ном>,,√agᵂa,"2/3pl jagᵂa/HL, 1pl wagᵂa",3pl bagᵂo/HL,3pl bagudu/HL,√aгва,o,0,0,0
+198,215,ЧИТАТЬ,<кто:эрг; что:ном>,,√ali,"5 bali/L, 4 rali",5 balo/L,5 balidu/L,√aли,o,0,0,0
+199,216,ПИСАТЬ,<кто:эрг; что:ном>,,√qᵂardi,qᵂardi/HL,qᵂardo/HL,qᵂardu/HL,√хъварди,o,0,0,0
+200,219,НАЧИНАТЬСЯ,<что:Предл>,,√a=ža,"5sg/pl abža/L, 2sg/pl ajža",abžab/L,1 awžidu/L,√a=жа,o,infix,0,0
